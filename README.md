@@ -1,5 +1,7 @@
 <h1 align="center"> Challengue del Amigo Secreto </h1>
 
+## Descripción del Proyecto
+
 Proyecto desarrollado como parte de la formación en desarrollo web de la beca Oracle Next One.
 
 ## Funcionamiento
